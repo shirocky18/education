@@ -1,0 +1,98 @@
+Good: Goods.Vase: Вазы ручной работы (WILD MUSE CRMCS)
+Price: от 4 000 pуб.
+Good: Goods.Vase: Вазы из серии STONE (FADEEVA CERAMICS)
+Price: 4 000 pуб.
+Good: Goods.Vase: Кашпо ручной работы в терракотовом цвете (АНАСТАСИЯ БОЛДЫРЕВА)
+Price: от 1 600 pуб.
+Good: Goods.Vase: Вазы с мраморным эффектом (COSH)
+Price: 2 700 pуб.
+Good: Goods.Vase: Ваза розовая UNTITLED 20 (GYPSY GYPSUM)
+Price: 3 500 pуб.
+Good: Goods.Vase: Ваза X-vase белая бетон+ стеклянная колба (UZOR)
+Price: 800 pуб.
+Good: Goods.Vase: Ваза бежевая UNTITLED 19 (GYPSY GYPSUM)
+Price: 3 500 pуб.
+Good: Goods.Vase: Ваза большая розовая полоска (Markova ceramics)
+Price: 5 000 pуб.
+Good: Goods.Candle: Свечи из кокосового воска в керамическом стакане (COSY STORIES)
+Price: 950 pуб.
+Good: Goods.Candle: Сет из трёх подсвечников для столовых свечей мини Naive flowers (COSY STORIES)
+Price: 1 800 pуб.
+Good: Goods.Candle: Сет из трёх подсвечников для столовых свечей Naive flowers (COSY STORIES).
+Price: 2 800 pуб.
+Good: Goods.Candle: Натуральные кокосовые свечи (NOTERA)
+Price: 2 990 pуб.
+Good: Goods.Candle: Свечи ручной работы в фарфоровых стаканах МОМЕНТЫ (DEGOCERAMICS)
+Price: 5 000 pуб.
+Good: Goods.Candle: Свечи ручной работы в фарфоровых стаканах CELEBRATION (DEGOCERAMICS)
+Price: 5 000 pуб.
+Good: Goods.Candle: Свечи Матисс (FLAMELAB)
+Price: 1 500 pуб.
+Good: Goods.Candle: Свеча Puff I cream (FLAMELAB)
+Price: 2 500 pуб.
+Good: Goods.Candle: Геометричные свечи (FLAMELAB)
+Price: 1 000 pуб.
+Good: Goods.Candle: Свеча в железной банке (OGON BETON)
+Price: 1 450 pуб.
+Good: Goods.Candle: Свеча на бетоне (OGON BETON)
+Price: от 600 pуб.
+Good: Goods.Candle: Ароматические соевые свечи (FORMS)
+Price: от 400 pуб.
+Good: Goods.Candle: Высокие свечи ручной работы поштучно (AROMATEPLO)
+Price: 160 pуб.
+Good: Goods.Candle: Высокие свечи ручной работы (NATURE SHADES)
+Price: 390 pуб.
+Good: Goods.Candle: Натуральные свечи из кокосового воска (METTA CANDLE)
+Price: 1 690 pуб.
+Good: Goods.Candle: Свечи из кокосового воска (MOMACANDLE)
+Price: от 900 pуб.
+Good: Goods.Candle: Свечи из соевого воска c деревянным фитилем (AROMATEPLO)
+Price: 1 050 pуб.
+Good: Goods.Candle: Высокие свечи ручной работы (AROMATEPLO)
+Price: от 700 pуб.
+Good: Goods.Candle: Терракотовые свечи из соевого воска в керамическом стакане (АНАСТАСИЯ БОЛДЫРЕВА)
+Price: 1 800 pуб.
+Good: Goods.Candle: Свечи-домики из пчелиного воска (VAXKERTI)
+Price: от 500 pуб.
+Good: Goods.Candle: Ароматическая свеча Кожа-Сандал (SP CANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Ароматическая свеча Хлопок (SP CANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Ароматическая свеча СЛИВА и РЕВЕНЬ (SP CANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Ароматическая свеча из кокосового воска в черном стекле (LUMI CANDLE)
+Price: 2 490 pуб.
+Good: Goods.Candle: Натуральные свечи (SOÛL HYGGE)
+Price: 2 850 pуб.
+Good: Goods.Candle: Ароматическая свеча ЛАВАНДА БЕРГАМОТ (SP CANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Соевые свечи (WHITE CANDLE)
+Price: 1 600 pуб.
+Good: Goods.Candle: Свеча в керамическом стакане бирюзовая (LUMI CANDLE)
+Price: 1 800 pуб.
+Good: Goods.Candle: Свеча в керамическом стакане розовая (LUMI CANDLE)
+Price: 1 800 pуб.
+Good: Goods.Candle: Ароматическая свеча ТАБАК/ВАНИЛЬ (SPCANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Ароматическая свеча ПИХТА ПАЧУЛИ (SPCANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Ароматическая свеча ЛАВАНДА БЕРГАМОТ (SPCANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Свеча ароматическая САНДАЛ/МУСКУС (SPCANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Свеча ароматическая ЯНТАРЬ/МОХ (SPCANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Ароматическая свеча МОРСКАЯ СОЛЬ/ОРХИДЕЯ (SPCANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Ароматическая свеча ЧЕРНЫЙ МУСКУС/АМБРА (SPCANDLE)
+Price: 1 725 pуб.
+Good: Goods.Candle: Ароматический диффузор ЛАВАНДА БЕРГАМОТ (SPCANDLE)
+Price: 1 200 pуб.
+Good: Goods.Candle: Ароматический диффузор МОРСКАЯ СОЛЬ/ОРХИДЕЯ (SPCANDLE)
+Price: 1 200 pуб.
+Good: Goods.Candle: Ароматический диффузор ЯНТАРЬ/МОХ (SPCANDLE)
+Price: 1 200 pуб.
+Good: Goods.Candle: Ароматический диффузор САНДАЛ/МУСКУС (SPCANDLE)
+Price: 1 200 pуб.
+Good: Goods.Candle: Ароматическая свеча Цветущая лаванда (LUMI CANDLE)
+Price: 1 500 pуб.
